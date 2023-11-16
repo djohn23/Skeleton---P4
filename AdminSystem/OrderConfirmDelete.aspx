@@ -7,6 +7,7 @@
     <title></title>
 </head>
 <body>
+    This is the Order Confirm Delete Page !
     <form id="form1" runat="server">
         <div>
         </div>
